@@ -3,4 +3,4 @@ while name == "":
     print("Invalid name.")
     name = input("Name: ")
 
-print(name[::2])
+print(name[1::2])
